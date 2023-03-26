@@ -2,7 +2,7 @@
 
 __Authors:__ Vilde Bruhn Kinneberg, Dabao Sun Lü, David Peris, Mark Ravinet and Inger Skrede
 
-__Journal:__ Journal of Evolutionary Biology
+__Journal:__ Journal of Evolutionary Biology (in review)
 
 __Year:__ 2023  
 
