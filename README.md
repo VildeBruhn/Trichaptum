@@ -12,4 +12,4 @@ __Abstract:__ To understand how species evolve and adapt to changing environment
 
 __Info:__ This repository contains scripts and a Dryad link to the VCF-files used to generate some results in this publication. Additional raw data and reference genomes can be found in the [Dryad repository](https://datadryad.org/stash/dataset/doi:10.5061/dryad.fxpnvx0t4) created for [Peris et al. (2022)](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010097).
 
-__Files:__ There are three VCF-files on [Dryad]: _Dataset_1.vcf.gz_, _Dataset_2.vcf.gz_ and _Dataset_O_2.vcf.gz_. The VCF-files are processed and filter as explained in the _Materials and Methods_ section in the article.
+__Files:__ There are three VCF-files on [Dryad]: _Dataset_1.vcf.gz_, _Dataset_2.vcf.gz_ and _Dataset_O_2.vcf.gz_. The VCF-files are processed and filter as explained in the _Materials and Methods_ section in the article. _Scripts will be added shortly_.
