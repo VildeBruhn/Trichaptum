@@ -1,3 +1,5 @@
+module load fastsimcoal2/6.0.3-linux64
+
 PREFIX=migration
 
 # Path to the folder containing the estimation (.est) and template (.tpl) files
