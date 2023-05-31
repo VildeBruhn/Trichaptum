@@ -1,0 +1,7 @@
+PREFIX=migration
+
+# Path to the folder containing the estimation (.est) and template (.tpl) files
+cd {PATH_TO_PREFIX}
+
+# Run fatsimcoal
+fsc26 -t ${PREFIX}.tpl -e ${PREFIX}.est -m -n 500000 -L 70 -s 0 -M -0
