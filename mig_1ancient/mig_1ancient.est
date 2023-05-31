@@ -1,0 +1,25 @@
+// Priors and rules file
+// *********************
+
+[PARAMETERS]
+//#isInt? #name   #dist.#min  #max
+//all N are in number of haploid individuals
+1  Npop0       unif     1000  100000   output
+1  Npop1       unif     1000  100000   output
+1  Npop2       unif     1000  100000   output
+1  Npop3       unif     1000  100000   output
+1  Tdiv1       unif     10000 5000000  output
+1  Tbw1        unif     1000  5000000  output
+1  Tbw2        unif     1000  5000000  output
+0  Resize1     logunif  0.1   100      output
+0  Resize2     logunif  0.1   100      output
+0  Resize3     logunif  0.1   100      output
+0  mig03       logunif  1e-10 0.1      output
+0  prop        logunif  1.01  10       output
+
+[RULES] 
+
+[COMPLEX PARAMETERS]
+1  Tdiv2 = Tdiv1-Tbw1
+1  Tdiv3 = Tdiv1-Tbw2 
+1  Tmig  = Tdiv2*prop
