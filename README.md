@@ -12,9 +12,8 @@ __Abstract:__ To understand how species evolve and adapt to changing environment
 
 __Info:__ This repository contains scripts and a Dryad repository link to the VCF-files used to generate some results in this publication. Additional raw data and reference genomes can be found in the [Dryad repository](https://datadryad.org/stash/dataset/doi:10.5061/dryad.fxpnvx0t4) created for [Peris et al. (2022)](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010097).
 
-__Files:__ There are three VCF-files on [Dryad](https://doi.org/10.5061/dryad.xpnvx0kkz): _Dataset_1.vcf.gz_, _Dataset_2.vcf.gz_ and _Dataset_O_2.vcf.gz_. The VCF-files are processed and filtered as explained in the _Materials and Methods_ section in the article and in the README file in the Dryad repository.
+__Files:__ 
 
-_Scripts_: The files in this GitHub repository are scripts used to run the fastisimcoal2 (Excoffier et al. 2021) demograpich modelling. The folders contain the estimation (.est) and (.tpl) files need to run the modelling. There are also two files with examples of how to run fastsimcoal2. One example with a single run (example_run.txt) and one example of a slurm array job with 100 runs (example_slurm_array_run.sh).
+_Dryad –_ There are three VCF-files on [Dryad](https://doi.org/10.5061/dryad.xpnvx0kkz): _Dataset_1.vcf.gz_, _Dataset_2.vcf.gz_ and _Dataset_O_2.vcf.gz_. The VCF-files are processed and filtered as explained in the _Materials and Methods_ section in the article and in the README file in the Dryad repository.
 
-__References:__
-* Excoffier, L., N. Marchi, D. A. Marques, R. Matthey-Doret, A. Gouy, and V. C. Sousa. 2021. fastsimcoal2: demographic inference under complex evolutionary scenarios. Bioinformatics. 37:4882–4885.
+_Scripts –_ The files in this GitHub repository are scripts used to run the fastisimcoal2 ([Excoffier et al. 2021](https://academic.oup.com/bioinformatics/article/37/24/4882/6308558)) demograpich modelling. The folders contain the estimation (.est) and (.tpl) files need to run the modelling. There are also two files with examples of how to run fastsimcoal2. One example with a single run (example_run.txt) and one example of a slurm array job with 100 runs (example_slurm_array_run.sh).
