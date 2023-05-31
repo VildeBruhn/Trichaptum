@@ -9,7 +9,7 @@
 #SBATCH --ntasks=1
 #SBATCH --array=1-100
 
-PREFIX=mig_3ancient
+PREFIX=migration
 
 # Path to folder that contains the estimation (.ext) and template (.tpl) files
 cd {PATH_TO_PREFIX}
