@@ -2,9 +2,9 @@
 
 __Authors:__ Vilde Bruhn Kinneberg, Dabao Sun Lü, David Peris, Mark Ravinet and Inger Skrede
 
-__Journal:__ Journal of Evolutionary Biology (in review)
+__Journal:__ Journal of Evolutionary Biology
 
-__Pre-print:__ [bioRxiv 2022.08.26.505392](https://www.biorxiv.org/content/10.1101/2022.08.26.505392v2)
+__Article:__ [DOI:10.1111/jeb.14190](https://onlinelibrary.wiley.com/doi/10.1111/jeb.14190)
 
 __Year:__ 2023  
 
